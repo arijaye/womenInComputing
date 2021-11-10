@@ -1,1 +1,2 @@
 # womenInComputing
+Ari Sherrod-Cavanaugh
